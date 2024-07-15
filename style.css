@@ -26,7 +26,7 @@
 }
 
 body {
-  background-color:aliceblue;
+  background-color:rgb(254, 195, 244);
   /* TODO: change the font - be mindful of how fonts are imported in the webpage */
   font-family: 'Noto Sans', sans-serif;
   /* TODO: change the background colour */
@@ -45,7 +45,7 @@ h1 {
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 25px;
   line-height: 20px;
 }
 
